@@ -10,10 +10,12 @@ This blog is mostly for personal reflection, experiments and links to projects t
 - www.praekelt.com 
 - www.praekeltfoundation.org
 
-For news and information about how we build mobile experiences to enhance lives in Africa. 
+For news and information about how we build mobile experiences to enhance lives in Africa you can also follow me on twitter: 
+
+- www.twitter.com/gustavp
 
 JoziHub
 ----------
-I'm also involved in the JoziHub, a technology incubator in Johannesburg dedicated to creating sustainable change in Africa. Find out more about how we are helping to develop the next generation of young entrepreneurs in Africa here: www.jozihub.org
+I'm also involved in JoziHub, a technology incubator in Johannesburg dedicated to creating sustainable change in Africa. Find out more about how we are helping to develop the next generation of young entrepreneurs in Africa here:
 
-I'll be using this Readme file to track progress (hopefully) of the blog.
+- www.jozihub.org
